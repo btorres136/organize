@@ -1,0 +1,10 @@
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+datetime
+click
+PyInquirer
+pyfiglet
+sys
+time
+halo
